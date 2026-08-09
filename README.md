@@ -68,9 +68,10 @@ and filters for better data analysis.
 The project provides an interactive dashboard that helps users
 understand accident patterns, severity, and trends through
 data visualization and analysis.
-
-## 👩‍💻 Author
+👩‍💻 Author
 
 **Sandhya**
 
 GitHub: `sandhya222007`
+
+ 
